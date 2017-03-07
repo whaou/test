@@ -1,4 +1,9 @@
+<<<<<<< HEAD
  feminas adfatim multas spectare cirratas, quibus, si
+||||||| merged common ancestors
+flexeris feminas adfatim multas spectare cirratas, quibus, si
+=======
+>>>>>>> 9164a5871aaa82bbe965d56661b56e99f77322b1
 nupsissent, per aetatem ter iam nixus poterat suppetere liberorum, ad usque
 taedium pedibus pavimenta iactari volucriter gyris, dum exprimunt
 innumera simulacra, quae finxere fabulae theatrales.
