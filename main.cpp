@@ -1,2 +1,2 @@
-const char str[] = "I hate cats!";
+const char str[] = "I love cats!";
 Serial.println(str);
